@@ -1,1 +1,1 @@
-web: gunicorn dpac.wsgi
+web: gunicorn gettingstarted.wsgi
