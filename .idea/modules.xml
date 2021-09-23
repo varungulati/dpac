@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/dpac.iml" filepath="$PROJECT_DIR$/.idea/dpac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BankingQuest/.idea/tradingdesk.iml" filepath="$PROJECT_DIR$/../BankingQuest/.idea/tradingdesk.iml" />
     </modules>
   </component>
 </project>
